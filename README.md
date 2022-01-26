@@ -15,13 +15,13 @@
   <img align="center" alt="Mari-React" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=761e73">
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=761e73">
   <img align="center" alt="Mari-CSS" height="30" width="40" 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-  <img align="center" alt="Rafa-Ts" height="30" width="40" 
+  <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mari-Csharp" height="30" width="40" 
+  <img align="right" alt="Mari-pic" height="150" style="border-radius:50px;" 
+  <img align="center" alt="Mari-Ts" height="30" width="40" 
        src="https://icongr.am/devicon/sass-original.svg?size=128&color=761e73">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://icongr.am/devicon/android-plain-wordmark.svg?size=128&color=37df34">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=761e73">
+    <img align="center" alt="Mari-React" height="30" width="40" src="https://icongr.am/devicon/android-plain-wordmark.svg?size=128&color=37df34">
+    <img align="center" alt="Mari-React" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=761e73">
 </div>
   
   ##
@@ -35,6 +35,46 @@
 
  
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
