@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/marinaap">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marinaap&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaap&layout=compact&langs_count=8&theme=aura_dark"/>
+  <img height="220em" width= "480em" src="https://github-readme-stats.vercel.app/api?username=marinaap&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="220em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaap&layout=compact&langs_count=4&theme=aura_dark"/>
 </div>
 
   <div style="display: inline_block" align="center"><br>
