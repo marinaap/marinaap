@@ -1,6 +1,6 @@
-- 👋 Oiii eu sou a Marina,
-- 👀 Hoje faço estágio na área de Desenvolvimento de Software;  
-- 🌱 Estudando HTML, CSS, JavaScript, C#, Dart, e os Frameworks Flutter e Unity;
+- 👋😊 Oiii eu sou a Marina,
+- 💻 Atualmente faço estágio na área de Desenvolvimento de Software;  
+- 📚 Estudando HTML, CSS, JavaScript, C#, Dart, Flutter e Unity;
 - 📫 Contate-me no e-mail: marinaapr.souza@gmail.com.
 
 <div align="center">
@@ -13,7 +13,7 @@
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mari-Ts" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=761e73">
   <img align="center" alt="Mari-React" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=761e73">
-  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=761e73">
+  <img align="center" alt="Mari-HTML" height="30" width="40" 
   <img align="center" alt="Mari-CSS" height="30" width="40" 
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mari-Csharp" height="30" width="40" 
