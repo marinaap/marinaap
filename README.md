@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/marinaap">
-  <img height="220em" width= "350em" src="https://github-readme-stats.vercel.app/api?username=marinaap&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="220em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaap&layout=compact&langs_count=4&theme=aura_dark"/>
+  <img height="350em" width= "350em" src="https://github-readme-stats.vercel.app/api?username=marinaap&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="350em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaap&layout=compact&langs_count=4&theme=radical"/>
 </div>
 
   <div style="display: inline_block" align="center"><br>
@@ -34,7 +34,7 @@
 #
     
     
-   <img align="center" height="350" width="500" src="https://github.com/marinaap/marinaap/blob/main/Mqpl.gif">
+   <img align="center" height="350" width="500" src="https://github.com/marinaap/marinaap/blob/main/Ab7i.gif">
         
    </div> 
     
