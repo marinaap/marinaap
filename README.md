@@ -1,5 +1,5 @@
 - 👋😊 Oiii eu sou a Marina,
-- 💻 Atualmente faço estágio na área de Desenvolvimento de Software;  
+- 💻 Analista de Sistemas;  
 - 📚 Estudando HTML, CSS, JavaScript, C#, Dart, Flutter e Unity;
 - 📫 Contate-me no e-mail: marinaapr.souza@gmail.com.
 
